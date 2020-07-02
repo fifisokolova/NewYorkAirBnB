@@ -10,3 +10,6 @@ For the Linear Regression and the Decision Three I tried several ways of approac
 I tested different ways of working with the data like lists and Datasets, numerous regression techniques like linear regression, decision three which is a method that can be used for both classification and regression. I found the information very interesting and I understood that I want to continue my realization in the world of Artificial Intelligence. This course helped me a lot since it is made in very practical way using recent techniques, used in the real-world as contrary to all courses online which show old-fashioned tactics of handling the data.
 
 
+The file "RegressionModels.pdf" is a data visualisation of the project. 
+The file "AB_NYC_2019.csv" is the modified version of the dataset downloaded from Kaggle. The modified version consists of no missing data!
+The file "Section2RegressionModel.py" is the file with all the code!
